@@ -12,13 +12,13 @@ from datetime import datetime
 
 API_ID = "14050586"
 API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
-BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
-MONGO_URL = os.environ.get("MONGO_URL", "")
+BOT_TOKEN = os.environ.get("6156367590:AAGsRqNhYWvy0IHitiBcYiBgHBgE4ac7XkY", None) 
+MONGO_URL = os.environ.get("mongodb+srv://laila:laila@cluster0.9gkozto.mongodb.net/?retryWrites=true&w=majority", "")
 
-DATABASE_NAME = os.environ.get("DATABASE_NAME") 
-BOT_USERNAME = os.environ.get("BOT_USERNAME")
-BOT_NAME = os.environ.get("BOT_NAME")
-ADMINS = os.environ.get("ADMINS")
+DATABASE_NAME = os.environ.get("postgres://knejtlkm:4GhXFj6QoTifK_CdSUiLjyAK017i7nKx@kandula.db.elephantsql.com/knejtlkm") 
+BOT_USERNAME = os.environ.get("@Itz_kittu_bot")
+BOT_NAME = os.environ.get("KITTU JI")
+ADMINS = os.environ.get("@DarkloverzS")
 
 bot = Client(
     "VickBot" ,
