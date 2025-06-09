@@ -2,11 +2,11 @@
     "name": "𝗞𝗜𝗧𝗧𝗨 𝗖𝗛𝗔𝗧𝗕𝗢𝗧",    
     "env": {
         "BOT_TOKEN": {
-            "description": 6156367590:AAGsRqNhYWvy0IHitiBcYiBgHBgE4ac7XkY,
+            "description": "6156367590:AAGsRqNhYWvy0IHitiBcYiBgHBgE4ac7XkY",
             "required": true
         },
         "MONGO_URL": {
-            "description": mongodb+srv://laila:laila@cluster0.9gkozto.mongodb.net/?retryWrites=true&w=majority,
+            "description": "mongodb+srv://laila:laila@cluster0.9gkozto.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         }
     },
